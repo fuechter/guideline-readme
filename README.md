@@ -14,3 +14,12 @@ README should be simple and short, but a good README can save time especially if
 - Other contact info (email address, website, company name, address, etc).
 - A brief history if it's a replacement or a fork of something else.
 - Legal notices (crypto stuff).
+
+## Syntax
+
+- ASCII characters only, if the README is written in English.
+- Write it in English if possible, and ship translated version with two-letter language code extension like README.pt.
+- 80 characters or less per line.
+- Single empty line between paragraphs.
+- Dashes under the headers.
+- Indent using whitespace (0x20) not tab.
